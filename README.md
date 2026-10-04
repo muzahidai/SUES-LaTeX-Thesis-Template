@@ -4,4 +4,4 @@
 2. Keep all figures (JPG and PDF files) in the `figures` directory.
 
 
-3.Compile main.tex with XeLaTeX because the template contains Chinese characters.
+3.Compile main.tex with XeLaTeX compiler because the template contains Chinese characters.
